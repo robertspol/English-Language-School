@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/English-Language-School/static/css/main.c8a9f6e7.chunk.css",
+    "main.js": "/English-Language-School/static/js/main.f0832017.chunk.js",
+    "main.js.map": "/English-Language-School/static/js/main.f0832017.chunk.js.map",
+    "runtime-main.js": "/English-Language-School/static/js/runtime-main.f1dd5037.js",
+    "runtime-main.js.map": "/English-Language-School/static/js/runtime-main.f1dd5037.js.map",
+    "static/js/2.e34f44d3.chunk.js": "/English-Language-School/static/js/2.e34f44d3.chunk.js",
+    "static/js/2.e34f44d3.chunk.js.map": "/English-Language-School/static/js/2.e34f44d3.chunk.js.map",
+    "index.html": "/English-Language-School/index.html",
+    "static/css/main.c8a9f6e7.chunk.css.map": "/English-Language-School/static/css/main.c8a9f6e7.chunk.css.map",
+    "static/js/2.e34f44d3.chunk.js.LICENSE.txt": "/English-Language-School/static/js/2.e34f44d3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/English-Language-School/static/media/london-bridge_640.6f3c4c7b.jpg",
+    "static/media/british-coin_640-removebg-preview.12335baa.png": "/English-Language-School/static/media/british-coin_640-removebg-preview.12335baa.png",
+    "static/media/certificate.73c5adb9.png": "/English-Language-School/static/media/certificate.73c5adb9.png",
+    "static/media/english-bull-terrier_1280.b4a01b59.jpg": "/English-Language-School/static/media/english-bull-terrier_1280.b4a01b59.jpg",
+    "static/media/english-bull-terrier_1920.fc08e5ed.jpg": "/English-Language-School/static/media/english-bull-terrier_1920.fc08e5ed.jpg",
+    "static/media/english-bull-terrier_640.4d93a3d7.jpg": "/English-Language-School/static/media/english-bull-terrier_640.4d93a3d7.jpg",
+    "static/media/english-flag.a4694e58.png": "/English-Language-School/static/media/english-flag.a4694e58.png",
+    "static/media/finances.3e36be81.jpg": "/English-Language-School/static/media/finances.3e36be81.jpg",
+    "static/media/graduation_640.defdf0ab.jpg": "/English-Language-School/static/media/graduation_640.defdf0ab.jpg",
+    "static/media/home-learning.f6bc3261.jpg": "/English-Language-School/static/media/home-learning.f6bc3261.jpg",
+    "static/media/home-schooling_640.efe40ad7.jpg": "/English-Language-School/static/media/home-schooling_640.efe40ad7.jpg",
+    "static/media/internet.3a55ea01.jpg": "/English-Language-School/static/media/internet.3a55ea01.jpg",
+    "static/media/london-eye_1280.1224c580.jpg": "/English-Language-School/static/media/london-eye_1280.1224c580.jpg",
+    "static/media/london-eye_1920.31a96b80.jpg": "/English-Language-School/static/media/london-eye_1920.31a96b80.jpg",
+    "static/media/london-eye_640.27c41ee1.jpg": "/English-Language-School/static/media/london-eye_640.27c41ee1.jpg",
+    "static/media/online_640.b57433c3.jpg": "/English-Language-School/static/media/online_640.b57433c3.jpg",
+    "static/media/stonehenge_1280.f6e76e3c.jpg": "/English-Language-School/static/media/stonehenge_1280.f6e76e3c.jpg",
+    "static/media/stonehenge_1920.964a1945.jpg": "/English-Language-School/static/media/stonehenge_1920.964a1945.jpg",
+    "static/media/stonehenge_640.b6c2979e.jpg": "/English-Language-School/static/media/stonehenge_640.b6c2979e.jpg",
+    "static/media/wembley_1280.8fb70721.jpg": "/English-Language-School/static/media/wembley_1280.8fb70721.jpg",
+    "static/media/wembley_1920.1125733d.jpg": "/English-Language-School/static/media/wembley_1920.1125733d.jpg",
+    "static/media/wembley_640.45d3f55f.jpg": "/English-Language-School/static/media/wembley_640.45d3f55f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1dd5037.js",
+    "static/js/2.e34f44d3.chunk.js",
+    "static/css/main.c8a9f6e7.chunk.css",
+    "static/js/main.f0832017.chunk.js"
+  ]
+}
