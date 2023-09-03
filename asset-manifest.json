@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/English-Language-School/static/css/main.c8a9f6e7.chunk.css",
-    "main.js": "/English-Language-School/static/js/main.f0832017.chunk.js",
-    "main.js.map": "/English-Language-School/static/js/main.f0832017.chunk.js.map",
+    "main.css": "/English-Language-School/static/css/main.1ecc45a2.chunk.css",
+    "main.js": "/English-Language-School/static/js/main.be74569a.chunk.js",
+    "main.js.map": "/English-Language-School/static/js/main.be74569a.chunk.js.map",
     "runtime-main.js": "/English-Language-School/static/js/runtime-main.f1dd5037.js",
     "runtime-main.js.map": "/English-Language-School/static/js/runtime-main.f1dd5037.js.map",
     "static/js/2.e34f44d3.chunk.js": "/English-Language-School/static/js/2.e34f44d3.chunk.js",
     "static/js/2.e34f44d3.chunk.js.map": "/English-Language-School/static/js/2.e34f44d3.chunk.js.map",
     "index.html": "/English-Language-School/index.html",
-    "static/css/main.c8a9f6e7.chunk.css.map": "/English-Language-School/static/css/main.c8a9f6e7.chunk.css.map",
+    "static/css/main.1ecc45a2.chunk.css.map": "/English-Language-School/static/css/main.1ecc45a2.chunk.css.map",
     "static/js/2.e34f44d3.chunk.js.LICENSE.txt": "/English-Language-School/static/js/2.e34f44d3.chunk.js.LICENSE.txt",
     "static/media/style.css": "/English-Language-School/static/media/london-bridge_640.6f3c4c7b.jpg",
     "static/media/british-coin_640-removebg-preview.12335baa.png": "/English-Language-School/static/media/british-coin_640-removebg-preview.12335baa.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.f1dd5037.js",
     "static/js/2.e34f44d3.chunk.js",
-    "static/css/main.c8a9f6e7.chunk.css",
-    "static/js/main.f0832017.chunk.js"
+    "static/css/main.1ecc45a2.chunk.css",
+    "static/js/main.be74569a.chunk.js"
   ]
 }
